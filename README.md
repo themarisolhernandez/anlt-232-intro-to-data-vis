@@ -72,7 +72,7 @@ conda activate intro-to-data-vis
 After activation, install the dependencies by running:
 
 ```bash
-conda install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Need Additional Support?
