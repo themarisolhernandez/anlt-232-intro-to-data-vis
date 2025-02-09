@@ -1,0 +1,275 @@
+Date	Company	Size(MB)	Cost(USD)	USD/GB
+1980 January 1	Morrow Designs	26	5000	193000
+1980 July 1	North Star	18	4199	233000
+1981 September 1	Apple	5	3500	700000
+1981 November 1	Seagate	5	1700	340000
+1981 December 1	VR Data Corp.	6.3	2895	460000
+1981 December 1	Morrow Designs	10	2999	300000
+1981 December 1	Morrow Designs	10	2949	295000
+1981 December 1	VR Data Corp.	19	5495	289000
+1981 December 1	Morrow Designs	20	3829	191000
+1981 December 1	Morrow Designs	26	3949	152000
+1981 December 1	Morrow Designs	26	3599	138000
+1982 March 1	Xebec			260000
+1983 December 1	Corvus	6	1895	316000
+1983 December 1	Corvus	10	2695	270000
+1983 December 1	Xcomp	10	1895	190000
+1983 December 1	Corvus	20	3495	175000
+1983 December 1	Davong	10	1650	165000
+1983 December 1	Xcomp	16	2095	131000
+1983 December 1	Davong	21	2495	119000
+1984 March 1	Percom/Tandon	5	1399	280000
+1984 March 1		5	1349	270000
+1984 March 1	Percom/Tandon	10	1699	170000
+1984 March 1		10	1599	160000
+1984 March 1	Percom/Tandon	15	2095	140000
+1984 March 1		15	1999	133000
+1984 March 1	Percom/Tandon	20	2399	120000
+1984 March 1		20	2359	118000
+1984 May 1	Tecmar	5	1495	299000
+1984 May 1	Corvus	6	1695	283000
+1984 May 1	Corvus	11	2350	214000
+1984 May 1	Comrex	10	1995	200000
+1984 May 1	CTI	11	1995	181000
+1984 May 1	Davong	10	1645	165000
+1984 May 1	Corvus	20	3150	158000
+1984 May 1	Davong	15	2095	140000
+1984 May 1	Davong	21	2495	119000
+1984 May 1	Pegasus (Great Lakes)	10	1075	108000
+1984 May 1	Pegasus (Great Lakes)	23	1845	80000
+1985 July 1	First Class Peripherals	10	710	71000
+1987 October 1	Iomega	10	899	90000
+1987 October 1	Iomega	20	1199	60000
+1987 October 1	Iomega	40	1799	45000
+1988 May 1		20	799	40000
+1988 May 1		30	995	33000
+1988 May 1		45	1195	27000
+1988 May 1		60	1795	30000
+1988 May 1		250	3995	16000
+1989 March 1	Western Digital	20	899	53000
+1989 March 1	Western Digital	40	1199	36000
+1989 September 1				12000
+1990 September 1				9000
+1991 September 1				7000
+1992 September 1				4000
+1993 September 1				2000
+1994 September 1				950
+1995 January 1	Seagate	1000	849	850
+1995 January 1	Seagate	1700	1499	880
+1995 January 1	Seagate	2100	1699	810
+1995 January 1	Seagate	2900	2899	990
+1995 April 1		240	250	1260
+1995 April 1		420	320	922
+1995 April 1		520	380	884
+1995 April 1		850	470	669
+1995 April 1		1000	625	756
+1995 April 1		1200	680	686
+1996 June 10	Western Digital	1600	399.99	295
+1996 August 14	IBM	1760	379.99	263
+1996 August 14	Maxtor	2000	439.99	259
+1996 September 1	Quantum	2500	440	207
+1996 September 1	Quantum	3200	469	173
+1997 August 13	Western Digital	2100	329.99	181
+1997 August 13	Western Digital	3100	399.99	148
+1997 August 13	Western Digital	4000	490.99	141
+1997 August 24	Western Digital	2100	279.99	153
+1997 August 24	Western Digital	3100	329.99	122
+1997 August 24	Maxtor	3500	359.99	118
+1997 August 24	Maxtor	4300	439.99	118
+1997 August 24	Western Digital	5100	459.99	104
+1997 September 5	Maxtor	7000	669.99	110
+1997 November 29	Western Digital	3200	289	104
+1997 November 29	Quantum	3200	285	102
+1997 November 29	Quantum	4300	379	101
+1997 November 29	Western Digital	4300	365	97.60
+1997 November 29	Quantum	6400	475	85.40
+1997 November 29	Western Digital	6400	445	80
+1997 December 3	Western Digital	5100	449.99	101
+1997 December 3	Quantum	6400	549.99	98.80
+1997 December 3	Maxtor	5200	438.99	97.10
+1997 December 3	Maxtor	7000	579.99	95.30
+1997 December 3	Maxtor	8400	679.99	93.10
+1998 January 16	Western Digital	6400	529.99	95.20
+1998 January 16	Quantum	4300	349.99	93.60
+1998 January 16	Quantum	6400	479.99	86.30
+1998 January 16	Maxtor	8400		83.90
+1998 February 3		5200	355	78.50
+1998 February 3		6400	435	78.20
+1998 April 2	Maxtor	5100	379.99	85.70
+1998 April 2	Maxtor	4300	319.99	85.60
+1998 April 2	Western Digital	6400		74.30
+1998 April 2	Quantum	6400	339.99	61.10
+1998 April 4		5200	349	77.20
+1998 April 4	Maxtor	4300		76.30
+1998 April 4		6400	370	66.50
+1998 April 4		5200	300	66.30
+1998 April 4		9000	499	63.80
+1998 April 17	Fujitsu	4300	282	75.40
+1998 April 17	Fujitsu	5200	331	73.20
+1998 April 17	Fujitsu	6400	368	66.10
+1998 May 2	Seagate	6400	349.99	62.90
+1998 May 9	Seagate	6400	329.99	59.30
+1998 May 11	Fujitsu	3200	227	81.60
+1998 May 11	Fujitsu	4300	257	68.70
+1998 May 11	Fujitsu	5200	299	66.10
+1998 May 11	Fujitsu	6400	328	58.90
+1998 June 6	Maxtor	5700	299.99	60.50
+1998 June 12	Quantum	4300	228	61
+1998 June 12	Quantum	6400	298	53.50
+1998 July 15		5200	249	55.10
+1998 July 31	Western Digital IDE	5100	262	59.10
+1998 July 31	Fujitsu IDE	5200	252	55.70
+1998 July 31	Western Digital IDE	6400	294	52.80
+1998 July 31	Western Digital IDE	8400	382	52.30
+1998 July 31	Fujitsu IDE	6400	291	52.30
+1998 August 1	Western Digital EIDE	4000		54.60
+1998 August 6	Western Digital EIDE	5100		46.40
+1998 August 14	Fujitsu	6400	289	51.90
+1998 August 26	Seagate	6400	279.99	50.30
+1998 September 1	Maxtor UDMA	8400	379.99	52
+1998 September 1	Maxtor UDMA	6800	279.99	47.40
+1998 September 10	Western Digital EIDE	5100		47.90
+1998 October 1	Quantum	6400		42.60
+1999 February 12	Quantum	8000	299.99	43.10
+1999 February 26	Maxtor	8400		37.70
+1999 February 26	Quantum	8000		36.50
+1999 February 27	Quantum	19200	512.46	30.70
+1999 March 1	Fujitsu Ultra DMA	8400	253	34.60
+1999 March 1	Fujitsu Ultra DMA	10200	299	33.70
+1999 March 3	Fujitsu Ultra DMA	8400	235	32.20
+1999 March 3	Fujitsu Ultra DMA	10200	285	32.10
+1999 April 1	Fujitsu UDMA	10200	279	31.50
+1999 April 1	Fujitsu UDMA	8400	229	31.40
+1999 May 21	Fujitsu UDMA	6400	179.99	32.30
+1999 May 27	Fujitsu UDMA	10200	245	27.60
+1999 May 27	Fujitsu UDMA	8400	198	27.10
+1999 May 27	Fujitsu UDMA	17300	369	24.50
+1999 May 28	Maxtor UDMA	10000	249.99	28.80
+1999 July 21	Maxtor Ultra DMA	8400	199.99	27.40
+1999 July 30	Fujitsu UDMA	6400	139.99	26.30
+1999 September 25		10200		18.50
+1999 October 1	Quantum CX UTA 66	10200	199	22.40
+1999 October 1	Quantum KA 7200 rpm	13600	249	21.10
+1999 October 1	Western Digital	20000	359	20.60
+1999 October 1	Western Digital 7200 rpm	27300	489	20.60
+1999 October 1	Quantum CX UTA 66	13600	219	18.50
+1999 December 1	Western Digital IDE	20500	398	22.30
+1999 December 1	Quantum IDE	18200	348	22
+1999 December 1		10200	189	21.30
+1999 December 1	Fujitsu IDE	10200	189	21.30
+1999 December 1	Fujitsu IDE	13000	208	18.40
+1999 December 1		13000	195	17.30
+1999 December 1	Fujitsu IDE	20400	299	16.90
+1999 December 1	Fujitsu IDE	17300	248	16.50
+1999 December 1	Fujitsu IDE	27300	388	16.30
+1999 December 1		17300	225	15
+2000 February 1		10200	175	19.70
+2000 February 1	Fujitsu	20400	299	16.90
+2000 February 1	Fujitsu	13600	199	16.80
+2000 February 1		12900	187.99	16.80
+2000 February 1	Fujitsu	13600	197.80	16.70
+2000 February 1		13000	186	16.50
+2000 February 1	Fujitsu	17300	238	15.80
+2000 February 1	Fujitsu	27300	375	15.80
+2000 February 1	Fujitsu	17300	232.30	15.40
+2000 February 1		17300	215	14.30
+2000 February 1		20400	211.99	12
+2000 April 1	IBM	20500	279	15.70
+2000 April 1	Maxtor	15200	199	15.10
+2000 April 1	Maxtor 7200 rpm	20000	259	14.90
+2000 April 1	Maxtor UDMA	15000	192	14.70
+2000 April 1	Seagate UDMA	17200	218	14.60
+2000 April 1	Seagate UDMA	28000	349	14.30
+2000 April 1		17300	215	14.30
+2000 April 1	IBM UDMA 5400 rpm	20300	245	13.90
+2000 April 1	Maxtor UDMA	17000	204	13.80
+2000 April 1	Maxtor 7200 rpm	27000	320	13.60
+2000 April 1		20400	239	13.50
+2000 April 1	Maxtor UDMA	36500	411	13
+2000 April 1	Maxtor UDMA	27000	299	12.70
+2000 April 1	Western Digital UDMA	20000	218	12.50
+2000 April 1	Maxtor UDMA	20000	217	12.50
+2000 April 1	Maxtor UDMA	30000	308	11.80
+2000 May 12	Western Digital Ultra ATA/66 5400 rpm	13600	179.99	15.20
+2000 May 12	Maxtor UDMA/66 7200 rpm	30000	319.99	12.30
+2000 May 12	Maxtor UDMA/66 7200 rpm	40000	399.99	11.50
+2000 June 2	Maxtor UDMA/66 5400 rpm	15000	189.99	14.60
+2000 August 1	Samsung	15000	162	12.40
+2000 August 1	Maxtor IDE 7200rpm	30500	298	11.20
+2000 August 1	Samsung	20000	175	10.10
+2000 August 20	Maxtor 7200rpm 9ms	40900	388	10.90
+2000 August 20	Maxtor 5400rpm	15300	144	10.80
+2000 August 20	Maxtor 7200rpm 9ms	30700	278	10.40
+2000 August 20	Maxtor 5400rpm	20400	164	9.25
+2000 August 20	Maxtor 5400rpm	30700	214	8.02
+2000 August 5	Maxtor 5400rpm	15000	149.99	11.50
+2000 August 25	Maxtor 7200rpm	40000	349.99	10.10
+2000 August 25	Maxtor 7200rpm UDMA/66	30000	249.99	9.58
+2000 October 27	Maxtor 7200rpm	30700	244	9.17
+2000 October 27	Maxtor 7200rpm	40900	318	8.93
+2000 October 27	Maxtor 5400rpm	61400	398	7.46
+2000 October 27	Maxtor 5400rpm	81900	518	7.30
+2000 October 27	Maxtor 5400rpm	30700	194	7.25
+2000 October 27	Maxtor 5400rpm	40900	254	7.14
+2000 November 1	Maxtor 7200rpm UDMA/66	30000		7.87
+2000 December 13	Samsung	30000	189	7.25
+2000 December 20	Maxtor Ultra ATA 66 5400 rpm	80000	479.99	6.90
+2001 January 14	5400 rpm	61000	388	7.30
+2001 January 14	5400 rpm	82000	518	7.25
+2001 January 14	5400 rpm	40000	238	6.85
+2001 April 25	Quantum 7200 rpm	40000	260	7.46
+2001 April 25	Fujitsu 5400 rpm UDMA-100	30000	169	6.49
+2001 April 25	Fujitsu 5400 rpm UDMA-100	40000	199	5.71
+2001 May 1	5400 rpm	30000	178	6.80
+2001 May 1	5400 rpm	82000	468	6.58
+2001 May 1	5400 rpm	61000	344	6.49
+2001 May 1	5400 rpm	40000	204	5.85
+2001 June 28	Western Digital 7200 rpm EIDE	40000	219.99	6.33
+2001 July 6	Maxtor UATA 7200 rpm	60000	329.99	6.33
+2001 July 20	Western Digital 7200 rpm UATA	80000		5.75
+2001 August 31	Western Digital 7200 rpm UATA	60000		4.41
+2001 November 30	Western Digital 7200 rpm EIDE UATA-100	100000		2.99
+2001 December 1	Maxtor 5400 rpm IDE	40000	158.88	4.57
+2002 March 8	Western Digital 5400 rpm EIDE Ultra ATA-100	40000	149.99	4.31
+2002 July 27	Maxtor 7200 rpm IDE	40000	128.88	3.70
+2002 August 9	Western Digital 7200 rpm EIDE Ultra ATA-100	100000	229.99	2.65
+2002 August 16	Western Digital 7200 rpm Ultra ATA-100	60000	149.99	2.87
+2002 August 16	Maxtor 7200 rpm EIDE Ultra ATA-133/100	80000	259.99	3.73
+2002 August 23	Western Digital 5400 rpm EIDE Ultra ATA-100	40000	89.99	2.59
+2002 August 30	Western Digital 7200 rpm EIDE Ultra ATA-100	100000	179.99	2.07
+2002 September 6	Western Digital 7200 rpm	120000	269.99	2.59
+2002 September 6	Western Digital 7200 rpm EIDE	40000	99.99	2.87
+2002 September 20	Western Digital 5400 rpm EIDE Ultra ATA-100	40000	89.99	2.59
+2002 September 20	Western Digital 7200 rpm Ultra ATA-100	60000	139.99	2.68
+2003 October 11	Maxtor 7200 rpm IDE	40000	89.88	2.58
+2003 October 11	Maxtor 7200 rpm IDE	120000	158	1.52
+2003 November 29	Maxtor Serial ATA	80000	134	1.93
+2003 November 29	Western Digital SMB cache	80000	124	1.78
+2003 November 29	Maxtor Serial ATA	120000	168	1.61
+2003 November 29	Western Digital SMB cache	120000	158	1.52
+2003 November 29	Maxtor 7200 rpm IDE	80000	98.88	1.42
+2003 November 29	Maxtor 7200 rpm IDE	120000	144.88	1.39
+2004 March 27	Western Digital Caviar 7200rpm	160000	269.99	1.94
+2004 March 27	Cicero 7200rpm	160000	269.95	1.94
+2004 March 27	Western Digital 7200rpm	250000	369.99	1.70
+2004 March 27	Western Digital	80000	109	1.57
+2004 March 27	Maxtor 7200rpm IDE	80000	98	1.41
+2004 March 27	Western Digital	120000	144	1.38
+2004 March 27	Maxtor 7200rpm IDE	120000	129	1.24
+2004 April 2	Western Digital Caviar 7200rpm	160000	169.99	1.22
+2004 April 16	Western Digital Caviar SE 7200rpm	250000	249.99	1.15
+2004 December 4	Barracuda 7200RPM Internal ATA/100	400000	280	0.70
+2004 December 9	250GB 7200RPM Internal ATA/133	250000	180	0.72
+2005 August 29	400GB 7200RPM Internal ATA/100	400000	300	0.75
+2005 August 29	Ultra16 250GB 7200RPM Internal ATA/133	250000	160	0.64
+2005 December 12	Hitachi Deskstar 7K250 250GB	250000	130	0.52
+2005 December 12	Seagate Barracuda 200GB	200000	140	0.70
+2006 July 5	Maxtor Ultra16 300GB	300000	150	0.50
+2006 July 5	Seagate Barracuda 7200.9 500GB	500000	300	0.60
+2006 December 27	Western Digital Caviar SE16 250GB	250000	140	0.56
+2006 December 27	Samsung 80GB	80000	35	0.44
+2007 June 24	Seagate 250GB	250000	100	0.40
+2007 June 24	Seagate 160GB	160000	70	0.44
+2008 January 13	Seagate Barracuda 7200.10 750GB	750000	200	0.27
+2008 January 13	Beyond Micro Monster Mobile 1TB	1000000	270	0.27
+2009 July 24	HITACHI 0A38016 7200 RPM SATA 3.0Gb/s	1000000	74.99	0.07
