@@ -173,6 +173,9 @@ cython_debug/
 # Solutions
 **/solution.ipynb
 
-# Upcoming Modules
-05 Matplotlib Cont/10_interpolation.ipynb
+# Untracked files
+Module 5 Matplotlib Cont/Asynchronous/05_interpolation.ipynb
+Module 6 Exploring Seaborn/Asynchronous/seaborn_plots_overview.ipynb
+
+.DS_Store
 
