@@ -1,2 +1,2 @@
-dash==3.0.0
-dash-bootstrap-components==2.0.0
+dash==2.18.2
+dash-bootstrap-components==1.4.0
