@@ -1,0 +1,23 @@
+body {
+    background-color: #F8F9FA;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #34495E;
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+    font-size: 16px;
+    display: block;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 18px;
+    text-align: center;
+    color: #2C3E50;
+}
