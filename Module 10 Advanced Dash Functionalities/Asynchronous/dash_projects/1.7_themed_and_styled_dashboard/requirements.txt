@@ -1,2 +1,4 @@
 dash==3.0.0
 plotly==6.0.0
+flask==3.0.3
+gunicorn==22.0.0
