@@ -16,13 +16,13 @@ fig.update_layout(
     plot_bgcolor="whitesmoke"
 )
 
-# fig.update_traces(
-#     hoverlabel=dict(
-#         bgcolor="white",
-#         font_size=14,
-#         font_family="Arial"
-#     )
-# )
+fig.update_traces(
+    hoverlabel=dict(
+        bgcolor="white",
+        font_size=14,
+        font_family="Arial"
+    )
+)
 
 # App Layout
 app.layout = html.Div([

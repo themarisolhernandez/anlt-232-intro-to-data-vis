@@ -176,6 +176,8 @@ cython_debug/
 # Untracked files
 Module 5 Matplotlib Cont/Asynchronous/05_interpolation.ipynb
 Module 6 Exploring Seaborn/Asynchronous/seaborn_plots_overview.ipynb
+Module 11 Tableau Basics/01_getting_started_with_tableau.ipynb
+Module 11 Tableau Basics/02_data_preparation_and_cleaning_in_tableau.ipynb
 
 .DS_Store
 
