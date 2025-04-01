@@ -1,11 +1,12 @@
 cust_id,name,email,city,state
 CUST001,Emily Smith,emily.smith@example.com,Los Angeles,CA
 CUST002,James Johnson,james.johnson@example.com,New York,NY
-CUST003,Sophia Brown,sophia.brown@example.com,Chicago,IL
+CUST003,,sophia.brown@example.com,Chicago,IL
 CUST004,Micheal Davis,micheal.davis@example.com,Houston,TX
 CUST005,Olivia Miller,olivia.miller@example.com,Miami,FL
 CUST006,William Wilson,william.wilson@example.com,San Francisco,CA
-CUST007,Ava Moore,ava.moore@example.com,Los Angeles,CA
+CUST007,Ava Moore,ava.moore@example.com         ,Los Angeles,CA
 CUST008,Alexander Taylor,alexander.taylor@example.com,Chicago,IL
 CUST009,Mia Anderson,mia.anderson@example.com,Miami,FL
+CUST010,Benajmin Thomas,benjamin.thomas@example.com,Houston,TX
 CUST010,Benajmin Thomas,benjamin.thomas@example.com,Houston,TX
