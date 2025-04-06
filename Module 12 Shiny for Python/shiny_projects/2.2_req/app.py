@@ -13,8 +13,11 @@ def server(input, output, session):
     # Reactive function to validate divisor input
     @reactive.calc
     def validate_input():
-        req(input.divisor() > 0)  # Validate the input
-        return input.divisor()
+        try:
+            req(input.divisor() > 0)  # Validate the input
+            return input.divisor()
+        except:
+            raise ValueError("Undefined: The divisor must be greater than zero.")
 
     @reactive.calc
     def calc_division():
@@ -27,8 +30,8 @@ def server(input, output, session):
         try:
             validate_input()  # This will throw an error if validation fails
             return f"The result of {input.dividend()} divided by {input.divisor()} is: {calc_division()}"
-        except Exception:
-            return "Undefined: The divisor must be greater than zero."  # If validation fails, show the error message
+        except Exception as e:
+            return str(e)  # If validation fails, show the error message
 
 # Create the Shiny app
 app = App(app_ui, server)
