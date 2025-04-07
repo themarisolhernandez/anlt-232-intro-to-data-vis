@@ -176,7 +176,6 @@ cython_debug/
 # Untracked files
 Module 5 Matplotlib Cont/Asynchronous/05_interpolation.ipynb
 Module 6 Exploring Seaborn/Asynchronous/seaborn_plots_overview.ipynb
-Module 12 Shiny for Python/03_layouts_and_ui_components.ipynb
 
 .DS_Store
 
