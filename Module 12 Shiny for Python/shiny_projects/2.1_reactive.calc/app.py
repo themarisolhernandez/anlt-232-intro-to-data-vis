@@ -13,7 +13,7 @@ def server(input, output, session):
     @reactive.calc
     def calc_square():
         return input.num() ** 2
-
+    
     # Output the computation
     @output
     @render.text
